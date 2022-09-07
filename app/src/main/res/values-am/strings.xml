@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_header_title">ቬጅ ዶክተር</string>
+    <string name="nav_header_subtitle"> በAGTRAIN ትሬዲንግ  የተነደፈ  እና የተሰራ</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_home">መነሻ ገጽ</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_about">ስለ</string>
+    <string name="menu_about_agtrain">ስለ አግትሬን</string>
+    <string name="menu_about_hort_life_project">ስለ ሆርቲ ላይፍ ፕሮጀክት</string>
+    <string name="menu_references">ዋቢ መጻሕፍት</string>
+    <string name="tab_text_1">ዝርዝር መግለጫ</string>
+    <string name="tab_text_2">መከላከያ ዘዴ</string>
+    <string name="tab_text_3">የምስል መረጃ</string>
+    <string name="pest">ተባይ</string>
+    <string name="disease">በሽታ</string>
+    <string name="disorder">የዕድገት መዛባት</string>
+    <string name="app_name">ፍሩት ዶክተር</string>
+    <string name="developedBy_For_Splash">በአግትሬን ተሰራ</string>
+<!--    <string name="references_Title">ዋቢ መጻሕፍት</string>-->
+<!--    <string name="references">Bargeron, C.T., J.H. LaForest, J. Brock, D.B. Langston &amp; R.L. David, B. Dutta. (2015).-->
+<!--        \n\nVegDr Android App. (Version 2.0) [Mobile application software]. Available at https://play.google.com/store/apps/details?id=com.bugwood.-->
+<!--        \n\nvegetabledoctor Ravi Shankar, Seema Harsha &amp; Raj Bhandary (2014).-->
+<!--        \n\nA PRACTICAL GUIDE TO IDENTIFICATION AND CONTROL OF PEPPER DISEASES, TROPICA SEEDS PVT LTD R &amp; D department Bangalore 560004 INDIA-->
+<!--Ravi Shankar, Seema Harsha &amp; Raj Bhandary (2014).-->
+<!--        \n\nA PRACTICAL GUIDE TO IDENTIFICATION AND CONTROL OF TOMATO DISEASES, TROPICA SEEDS PVT LTD R &amp; D department Bangalore 560004 INDIA-->
+<!--\n\nTomato diseases Android App. (Version 2.1.5) [Mobile application software]. Available at https://play.google.com/store/apps/details?id=com.Hazera. Tomato diseases-->
+<!--\n\nOnion diseases Android App. (Version 2.1.5) [Mobile application software]. Available at https://play.google.com/store/apps/details?id=com. Hazera. Onion diseases-->
+<!--\n\nBrassica diseases Android App. (Version 2.1.5) [Mobile application software]. Available at https://play.google.com/store/apps/details?id=com. Hazera. Brassica diseases-->
+<!--    \n\nCABBAGE BASIC PRODUCTION PRACTICES TECHNICAL BROCHURE and LEAF LET, SNV Netherlands Development organization</string>-->
+<!--    <string name="title_activity_about_Agtrain_title">ስለ አግትሬን</string>-->
+<!--    <string name="detailInfo_about_Agtrain">አግትሬን ኃ/የተ/የግል ኩባንያ በኢትዮጵያ ውስጥ የተመዘገበ በግብርና ትራንስፎርሜሽን-->
+<!--        ላይ ለውጥ ለማምጣት ለሚደረግ ጥረት የበኩሉን አስተዋጽዖ ለማበርከት የሚሠራ አገር በቀል የግል ድርጅት ነው፡፡ ድርጅቱ በዋናነት የግብርናውን-->
+<!--        ዘርፍ የተፋጠነ ሽግግር ለማገዝ የግብርና የመተግበሪያ ቴክኖሎጂያዊ ሥራዎችን በማበልጸግ ለግሉና አነስተኛ ይዞታ ላላቸው አርሶ አደሮች ጥቅም-->
+<!--        ሊውሉ የሚችሉ መተግበሪያዎችን በማበልጸግ ላይ የሚገኝ ድርጅት ነው፡፡ \n\nበዚህ የመተግበሪያ መሣሪያ ውስጥ በኢትዮጵያ ውስጥ አርሶ አደሩ-->
+<!--        በአብዛኛው የሚያመርታቸው 4 የጓሮ አትክልቶችን የሚያጠቁ ተባዮች በሽታዎችና የአበቃቀል ጉድለቶችን ዝርዝርና ምስል ከተቀናጀ የተባይ-->
+<!--        መከላከያ ዘዴዎች ምክረ ሐሳብ ጋር አጣምሮ በአማርኛና እንግሊዝኛ ቋንቋ የተዘጋጀ ሲሆን ይህንን ምክረ ሐሳብ አርሶ አደሮችም ሆኑ የልማት-->
+<!--        ጣቢያ ሠራተኞች አንብበው ከምስሉ ጋር አመሳክረው በወቅቱ አስፈላጊውን እርምጃ በመውሰድ በጓሮ አትክልት ምርትና ምርታማነትን እንዲጨምር-->
+<!--        ለማስቻል የሚያግዝ የመተግበሪያ መሣሪያ ነው፡፡-->
+<!--</string>-->
+<!--    <string name="title_activity_about_HortiLife_Title">ስለ ሆርቲ ላይፍ ፕሮጀክት</string>-->
+<!--    <string name="title_activity_about_HortiLife">የሆርቲ ላይፍ ፕሮጀክት ዋናዉ ዓላማ  በአርሶ አደሮች የማሳ ላይ ትምህርት ቤት-->
+<!--        በማቋቋም  የተሻሻለ የግብርና አመራረት ዘዴዎችንና  የተቀናጀ የተባይ መከላከያ ዘዴዎችን በመከተል አነስተኛ ይዞታ ያላቸዉን አርሶ አደሮች-->
+<!--        በጓሮ አትክልት ልማት ላይ አቅማቸዉን ማጎልበትና ተግባራዊ እንዲያደርጉ በማድረግ ምርትና ምርታማነትን እንዲጨምር ማስቻል ነዉ፡፡\n\n-->
+<!--        የዚህ መተግበሪያ መሣሪያ አንባቢና ተጠቃሚ በመተግበሪያ የቀረቡትን መረጃዎች በመጠቀሙ ለሚከሰተው ማንኛውም ዓይነት ችግር ሙሉ-->
+<!--        ኃላፊነቱን ለመውሰድ ተስማምቷል፡፡ በዚህ መተግበሪያ መሣሪያ  ውስጥ የተገለጹትን መረጃዎች በመጠቀም ወይም በትክክል መጠቀም ባለመቻል-->
+<!--        ለሚከሰቱ ማንኛውም ዓይነት ሊስተካከሉ የሚችሉም ሆነ የማይችሉ ችግሮች በማንኛውም አይነት ሁኔታ ኤስ ኤን ቪ ሆርቲ ላይፍ ወይም-->
+<!--        ሠራተኞቹ ኃላፊነቱን አይወስዱም፡፡ በዚህ የመተግበሪያ መሣሪያ ውስጥ የተገለጹ መረጃዎችን ጥቅም ላይ ከማዋል በፊት በአካባቢው የሚገኙ-->
+<!--        ኤክስፐርቶችን ማማከርና ማረጋገጥ እንደሚገባ ይመከራል፡፡-->
+<!--</string>-->
+<!--    <string name="about_Title">በኢትዮጵያ ውስጥ የሚገኙ የአትክልት ነፍሳት በሽታ መቆጣጠሪያ መመሪያ </string>-->
+<!--    <string name="about_Detail_Information"><b>ቬጅ ዶክተር</b> የተባለው የአትክልት ተባዮች በሽታዎችና የአበቃቀል ጉድለት እንዲሁም-->
+<!--        የመቆጣጠሪያ መንገዶች የሚገልጽ መተግበሪያ መሣሪያ ነው፡፡ \n\nይህ የመተግበሪያ መሣሪያ ሆርቲ ላይፍ ፕሮጀክት በሚተገብራቸው 4-->
+<!--        ተክሎች፤ ማለትም ሽንኩርት ፣ ቃሪያ ፣ ቲማቲምና ጥቅል ጎመንን የሚያጠቁ ዋና ዋና ተባዮችን ማለትም 20 ተባዮችን 35 በሽታዎችና-->
+<!--        13 የአበቃቀል ጉድለቶችን በማሳ ላይ በቀላሉ በፎቶግራፍ በማስደገፍ መለየትና የተቀናጀ የመቆጣጠሪያ መንገዶችንና የጸረ ተባይ ምክረ-->
+<!--        ሐሳብ በመስጠት የአትክልት አምራች አርሶአደሮችና የግብርና ባለሞያዎችን ለማገዝ የሚያስችል ነው፡፡ \n\nምክረ ሐሳቡም በጸረ ተባይ ማሸጊያ-->
+<!--        ላይ ከሚገኙ መረጃዎችና በተለያዩ የምርምር ሥራዎችና በአርሶ አደሮች ማሳ ላይ ከተገኘ ተሞክሮ የተዘጋጀ ነው፡፡ <b>\n\nቬጅ ዶክተር</b> መተግበሪያ-->
+<!--        መሣሪያ በአግትሬን ኃ. የተ. የግል ድርጅት ከኤስ ኤን ቪ የኔዘርላንድስ የልማት ድርጅት ሆርቲ ላይፍ ከተሰኘው ፕሮጀክት በተገኘ የገንዘብ ድጋፍ የተዘጋጀ ነው፡፡ </string>-->
+<!--    <string name="contact_info"><b>አግትሬን ኃ/የተ/ማህበር</b>,\t agtraintrading@gmail.com, info@agtraintrading.com.et , andnetbay@gmail.com</string>-->
+
+    <string name="action_settings">ቋንቋ ቀይር</string>
+    <string name="choose_Language">ቋንቋ ይምረጡ....</string>
+    <string name ="For_more_information">ለበለጠ መረጃ:- </string>
+    <string name ="numberOfElement">ያለ ችግር ዝርዝር = </string>
+    <string name="recommendation_Title1_Disease">የተቀናጀ የበሽታ መከላከያ ዘዴ ምክረ ሐሳብ</string>
+    <string name = "recommendation_Detail">መወሰድ ስላለበት ጥንቃቄ ዝርዝር የሆነ መራጃ/መግለጫ </string>
+    <string name = "efficacyTitle">ፀረ-ተባይ መቆጣጠሪያ ምርቶች ዝርዝር</string>
+    <string name="note_Title">የጸረ ተባይ ርጭት ከማካሄድዎ በፊት የሚከተሉትን ነጥቦች ያስተውሉ!</string>
+    <string name="note">የተመዘገቡና የሚመከሩ የጸረ ተባይ ዓይነቶችን ይጠቀሙ፤ \n\n
+    የጸረ ተባይ ዓይነቶችን የንጥረ ነገር(ሮች) የአሠራር ምድብ (ኮድ) ያላቸውን  በመቀያየር እንዳይላመዱት ማድረግ፤ \n\n
+    የርጭት መጠኑን ለማወቅ፤ በማሸጊያው ላይ የተዘረዘረውን የአምራችና አከፋፋይ መመሪያ በሚገባ ማንበብ፤ \n\n
+    የተክሉን ዓይነት፤ የዕድገት ደረጃና የርጭት ሰዓት በማገናዘብ በቂ የርጭት ውሃ መጠን ይጠቀሙ፤ \n\n
+    የደኅንነት መከላከያ ቁሳቁሶችን፣  ወደ ማሳ ተመልሶ የመግቢያ ሰዓትን ፣ የቅድመ ምርት የመሰብሰቢያ ሰዓት መጠንና ተያያዥ መመሪያዎችና ማስጠንቀቂያዎች ትኩረት ይስጡ፤ \n\n
+    ለተሻለ ውጤት በአቅራቢያዎ የሚገኝን ባለሞያ ያማክሩ፡፡</string>
+    <string name="popup_btn_Okay">እሺ!</string>
+
+
+
+    <string name="references_Title">ዋቢ መጻሕፍት</string>
+    <string name="references">
+\n\n Ahuja D B and Chattopadhyay C 2015: Pests of Fruit Trees (Citrus, Banana, Mango, Pomegranate and Sapota) E-Pest Surveillance and Pest Management Advisory, publishers ICAR-National Research Centre for Integrated Pest Management, New Delhi and State Department of Horticulture, Commissionerate of Agriculture, Pune (Maharashtra): 124
+\n\nAvocado Production Guideline Technical Brochure, SNV Netherlands Development organization
+\n\n Banana Production Guideline Technical Brochure, SNV Netherlands Development organization
+\n\n Mango Production Guideline Technical Brochure, SNV Netherlands Development organization
+\n\n Papaya Production Guideline Technical Brochure, SNV Netherlands Development organization
+\n\n https://www.plantwise.org Plantwise Knowledge Bank © Copyright 2022 CAB International.
+Centre for Agriculture and Bioscience International (CABI, sometimes also referred to as CAB International), a UK-based nonprofit inter-governmental organization for scientific research and publishing on agriculture and the environment.
+</string>
+    <string name="title_activity_about_Agtrain_title">ስለ አግትሬን</string>
+    <string name="detailInfo_about_Agtrain">አግትሬን ኃ/የተ/የግል ኩባንያ በኢትዮጵያ ውስጥ የተመዘገበ በግብርና ትራንስፎርሜሽን
+        ላይ ለውጥ ለማምጣት ለሚደረግ ጥረት የበኩሉን አስተዋጽዖ ለማበርከት የሚሠራ አገር በቀል የግል ድርጅት ነው፡፡ ድርጅቱ በዋናነት የግብርናውን
+        ዘርፍ የተፋጠነ ሽግግር ለማገዝ የግብርና የመተግበሪያ ቴክኖሎጂያዊ ሥራዎችን በማበልጸግ ለግሉና አነስተኛ ይዞታ ላላቸው አርሶ አደሮች ጥቅም
+        ሊውሉ የሚችሉ መተግበሪያዎችን በማበልጸግ ላይ የሚገኝ ድርጅት ነው፡፡ \n\nበዚህ የመተግበሪያ መሣሪያ ውስጥ በኢትዮጵያ ውስጥ አርሶ አደሩ
+        በአብዛኛው የሚያመርታቸውን 4 የፍራፍሬ የሚያጠቁ ተባዮች በሽታዎችና የአበቃቀል ጉድለቶችን ዝርዝርና ምስል ከተቀናጀ የተባይ
+        መከላከያ ዘዴዎች ምክረ ሐሳብ ጋር አጣምሮ በአማርኛና እንግሊዝኛ ቋንቋ አዘጋጅቶ ያቀረበ ሲሆን ይህንን ምክረ ሐሳብ አርሶ አደሮችም ሆኑ የልማት
+        ጣቢያ ሠራተኞች አንብበው ከምስሉ ጋር አመሳክረው በወቅቱ አስፈላጊውን እርምጃ በመውሰድ የፍራፍሬ ምርትና ምርታማነትን እንዲጨምር
+        ለማስቻል የሚያግዝ የመተግበሪያ መሣሪያ ነው፡፡
+</string>
+    <string name="title_activity_about_HortiLife_Title">ስለ ሆርቲ ላይፍ ፕሮጀክት</string>
+    <string name="title_activity_about_HortiLife">የሆርቲ ላይፍ ፕሮጀክት ዋናዉ ዓላማ በአርሶ አደሮች የማሳ ላይ ትምህርት ቤት
+        በማቋቋም የተሻሻለ የግብርና አመራረት ዘዴዎችንና የተቀናጀ የተባይ መከላከያ ዘዴዎችን በመከተል አነስተኛ ይዞታ ያላቸዉን አርሶ አደሮች
+        በፍራፍሬ ልማት ላይ አቅማቸዉን ማጎልበትና ተግባራዊ እንዲያደርጉ በማድረግ ምርትና ምርታማነትን እንዲጨምር ማስቻል ነዉ፡፡\n\n
+        የዚህ መተግበሪያ መሣሪያ አንባቢና ተጠቃሚ በመተግበሪያ የቀረቡትን መረጃዎች በመጠቀሙ ለሚከሰተው ማንኛውም ዓይነት ችግር ሙሉ
+        ኃላፊነቱን ለመውሰድ ተስማምቷል፡፡ በዚህ መተግበሪያ መሣሪያ ውስጥ የተገለጹትን መረጃዎች በመጠቀም ወይም በትክክል መጠቀም ባለመቻል
+        ለሚከሰቱ ማንኛውም ዓይነት ሊስተካከሉ የሚችሉም ሆነ የማይችሉ ችግሮች በማንኛውም አይነት ሁኔታ ኤስ ኤን ቪ ሆርቲ ላይፍ ወይም
+        ሠራተኞቹ ኃላፊነቱን አይወስዱም፡፡ በዚህ የመተግበሪያ መሣሪያ ውስጥ የተገለጹ መረጃዎችን ጥቅም ላይ ከማዋል በፊት በአካባቢው የሚገኙ
+        የግብርና ባለሞያዎችን ማማከርና ማረጋገጥ እንደሚገባ ይመከራል፡፡
+</string>
+    <string name="about_Title">በኢትዮጵያ ውስጥ የሚገኙ የፍራፍሬ ነፍሳት በሽታ መቆጣጠሪያ መመሪያ </string>
+    <string name="about_Detail_Information"><b>ፍሩት ዶክተር</b> የተባለው የፍራፍሬ ተባዮች በሽታዎችና የአበቃቀል ጉድለት እንዲሁም የመቆጣጠሪያ መንገዶች የሚገልጽ መተግበሪያ መሣሪያ ነው፡፡ \n\nይህ የመተግበሪያ መሣሪያ ሆርቲ ላይፍ ፕሮጀክት በሚተገብራቸው 4
+        የፍራፍሬ ተክሎች፤ ማለትም አቮካዶ ፣ ሙዝ፣ ማንጎና ፓፓዬን የሚያጠቁ ዋና ዋና ተባዮችን ማለትም 9 ተባዮችን 17 በሽታዎችና
+        5 የአበቃቀል ጉድለቶችን በቀላሉ በፎቶግራፍ በማስደገፍ መለየትና የተቀናጀ የመቆጣጠሪያ መንገዶችንና የጸረ ተባይ ምክረ
+        ሐሳብ በመስጠት የአትክልት አምራች አርሶአደሮችና የግብርና ባለሞያዎችን ለማገዝ የሚያስችል ነው፡፡ \n\nምክረ ሐሳቡም በጸረ ተባይ ማሸጊያ
+        ላይ ከሚገኙ መረጃዎችና በተለያዩ የምርምር ሥራዎችና በአርሶ አደሮች ማሳ ላይ ከተገኘ ተሞክሮ የተዘጋጀ ነው፡፡ <b>\n\nቬጅ ዶክተር</b> መተግበሪያ መሣሪያ በአግትሬን ኃ. የተ. የግል ድርጅት ከኤስ ኤን ቪ የኔዘርላንድስ የልማት ድርጅት ሆርቲ ላይፍ ከተሰኘው ፕሮጀክት በተገኘ የገንዘብ ድጋፍ የተዘጋጀ ነው፡፡ </string>
+    <string name="contact_info"><b>አግትሬን ኃ/የተ/ማህበር</b>,\t agtraintrading@gmail.com, info@agtraintrading.com.et , andnetbay@gmail.com</string>
+    <string name="msg_no_product_found">
+        ዝርዝር የመቆጣጠሪያ መንገዶች ስለሌሉት በአቅራበያዎ የሚገኝ የግብርና ባለሞያ በማነጋገር የተሻለ የመከላከያ እና የመቆጣጠሪያ  ዘዴዎችን በመተግበር ለመቆጣጠር ይሞክሩ፡፡
+    </string>
+</resources>
