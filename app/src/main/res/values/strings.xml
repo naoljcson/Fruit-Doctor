@@ -6,6 +6,7 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="menu_about">About</string>
+    <string name="menu_notification">Notification</string>
     <string name="menu_about_agtrain">About AgTrain</string>
     <string name="menu_about_hort_life_project">About Horti-Life Project</string>
     <string name="menu_references">References</string>
@@ -17,54 +18,54 @@
     <string name="disorder">Disorder</string>
     <string name="app_name">Fruit Doctor</string>
     <string name="developedBy_For_Splash">By AgTrain Trading P.L.C</string>
-<!--    <string name="references_Title">References</string>-->
-<!--    <string name="references">Bargeron, C.T., J.H. LaForest, J. Brock, D.B. Langston &amp; R.L. David, B. Dutta. (2015).-->
-<!--        \n\nVegDr Android App. (Version 2.0) [Mobile application software]. Available at https://play.google.com/store/apps/details?id=com.bugwood.-->
-<!--        \n\nvegetabledoctor Ravi Shankar, Seema Harsha &amp; Raj Bhandary (2014).-->
-<!--        \n\nA PRACTICAL GUIDE TO IDENTIFICATION AND CONTROL OF PEPPER DISEASES, TROPICA SEEDS PVT LTD R &amp; D department Bangalore 560004 INDIA-->
-<!--Ravi Shankar, Seema Harsha &amp; Raj Bhandary (2014).-->
-<!--        \n\nA PRACTICAL GUIDE TO IDENTIFICATION AND CONTROL OF TOMATO DISEASES, TROPICA SEEDS PVT LTD R &amp; D department Bangalore 560004 INDIA-->
-<!--\n\nTomato diseases Android App. (Version 2.1.5) [Mobile application software]. Available at https://play.google.com/store/apps/details?id=com.Hazera. Tomato diseases-->
-<!--\n\nOnion diseases Android App. (Version 2.1.5) [Mobile application software]. Available at https://play.google.com/store/apps/details?id=com. Hazera. Onion diseases-->
-<!--\n\nBrassica diseases Android App. (Version 2.1.5) [Mobile application software]. Available at https://play.google.com/store/apps/details?id=com. Hazera. Brassica diseases-->
-<!--        \n\nCABBAGE BASIC PRODUCTION PRACTICES TECHNICAL BROCHURE and LEAF LET, SNV Netherlands Development organization-->
-<!--</string>-->
-<!--    <string name="title_activity_about_Agtrain_title">About AgTraIn</string>-->
-<!--    <string name="detailInfo_about_Agtrain">AgTraIn PLC (Agricultural Transformation by Innovation)-->
-<!--        is a privately owned Ethiopian Company registered in Ethiopia. The company is working mainly-->
-<!--        on developing and delivering technological products and services for the agricultural sector.\n-->
-<!--        The company focus on developing technological supporting tools for the two main farming components-->
-<!--        in the agricultural sector, smallholder farmers and export oriented farms. \n\nAgTraIn is working to-->
-<!--        support the existing extension service by developing offline mobile applications to support-->
-<!--        smallholder farmers. The present app is focusing on the Integrated Pest Management (IPM) practices-->
-<!--        of the pest, disease and disorders of most commonly growing 4 Vegetables. This will help farmers-->
-<!--        and extension agents to get timely advice by reading and comparing with the pictures. It helps-->
-<!--        them manage the risks accordingly and thereby  increase yield.-->
-<!--</string>-->
-<!--    <string name="title_activity_about_HortiLife_Title">About Horti-Life Project</string>-->
-<!--    <string name="title_activity_about_HortiLife">The Horti-LIFE project aim to address issues of low productivity-->
-<!--        and the high pressure from pests and diseases that horticultural smallholders are facing by-->
-<!--        establishing Farmer Field Schools (FFS) to capacitate smallholders to adapt Good Agricultural-->
-<!--        Practices (GAP) and Integrated Pest Management (IPM) practices in their horticultural production.-->
-<!--        \n\nThe reader of the provided INFORMATION in this current mobile application agrees that any-->
-<!--        risk of any kind from any use of the provided INFORMATION rests entirely and completely with-->
-<!--        the reader. \n\nIn no event will SNV Horti LIFE or its employees be liable for any damage or-->
-<!--        punitive damages arising out of the use of or inability to use the INFORMATION included in-->
-<!--        THE PRESENT mobile application. Prior to any use of data FROM THE PRESENT mobile application,-->
-<!--        you are advised to consult with your local experts, to verify and validate the applicability of-->
-<!--        the retrieved INFORMATION. There are no warranties as to the results obtained from the use of the-->
-<!--        information included in the PRESENT mobile application.-->
-<!--</string>-->
-<!--    <string name="about_Title">Ethiopian Vegetable Insect Pests and Disease Guide</string>-->
-<!--    <string name="about_Detail_Information"><b>VegDr provides you information for vegetable pest, diseases-->
-<!--        and disorders.</b> The app includes 4 vegetable crops which Horti-LIFE project is-->
-<!--        working on (Onion, Pepper, Tomato and Cabbage). The app contains information on 20 pests\',-->
-<!--        35 diseases\', and 13 disorders\' images of the symptoms, IPM recommendations and lists-->
-<!--        products that are considered effective for control. \n\nRecommendations are based on information-->
-<!--        on the manufacturer\'s label and performance data from research and Extension trials from the-->
-<!--        Farmers Field School. \n\nVegDr is developed by AgTraIn PLC and funding provided by the Horti-LIFE-->
-<!--        project of SNV Netherlands Development Organization.-->
-<!--    </string>-->
+    <!--    <string name="references_Title">References</string>-->
+    <!--    <string name="references">Bargeron, C.T., J.H. LaForest, J. Brock, D.B. Langston &amp; R.L. David, B. Dutta. (2015).-->
+    <!--        \n\nVegDr Android App. (Version 2.0) [Mobile application software]. Available at https://play.google.com/store/apps/details?id=com.bugwood.-->
+    <!--        \n\nvegetabledoctor Ravi Shankar, Seema Harsha &amp; Raj Bhandary (2014).-->
+    <!--        \n\nA PRACTICAL GUIDE TO IDENTIFICATION AND CONTROL OF PEPPER DISEASES, TROPICA SEEDS PVT LTD R &amp; D department Bangalore 560004 INDIA-->
+    <!--Ravi Shankar, Seema Harsha &amp; Raj Bhandary (2014).-->
+    <!--        \n\nA PRACTICAL GUIDE TO IDENTIFICATION AND CONTROL OF TOMATO DISEASES, TROPICA SEEDS PVT LTD R &amp; D department Bangalore 560004 INDIA-->
+    <!--\n\nTomato diseases Android App. (Version 2.1.5) [Mobile application software]. Available at https://play.google.com/store/apps/details?id=com.Hazera. Tomato diseases-->
+    <!--\n\nOnion diseases Android App. (Version 2.1.5) [Mobile application software]. Available at https://play.google.com/store/apps/details?id=com. Hazera. Onion diseases-->
+    <!--\n\nBrassica diseases Android App. (Version 2.1.5) [Mobile application software]. Available at https://play.google.com/store/apps/details?id=com. Hazera. Brassica diseases-->
+    <!--        \n\nCABBAGE BASIC PRODUCTION PRACTICES TECHNICAL BROCHURE and LEAF LET, SNV Netherlands Development organization-->
+    <!--</string>-->
+    <!--    <string name="title_activity_about_Agtrain_title">About AgTraIn</string>-->
+    <!--    <string name="detailInfo_about_Agtrain">AgTraIn PLC (Agricultural Transformation by Innovation)-->
+    <!--        is a privately owned Ethiopian Company registered in Ethiopia. The company is working mainly-->
+    <!--        on developing and delivering technological products and services for the agricultural sector.\n-->
+    <!--        The company focus on developing technological supporting tools for the two main farming components-->
+    <!--        in the agricultural sector, smallholder farmers and export oriented farms. \n\nAgTraIn is working to-->
+    <!--        support the existing extension service by developing offline mobile applications to support-->
+    <!--        smallholder farmers. The present app is focusing on the Integrated Pest Management (IPM) practices-->
+    <!--        of the pest, disease and disorders of most commonly growing 4 Vegetables. This will help farmers-->
+    <!--        and extension agents to get timely advice by reading and comparing with the pictures. It helps-->
+    <!--        them manage the risks accordingly and thereby  increase yield.-->
+    <!--</string>-->
+    <!--    <string name="title_activity_about_HortiLife_Title">About Horti-Life Project</string>-->
+    <!--    <string name="title_activity_about_HortiLife">The Horti-LIFE project aim to address issues of low productivity-->
+    <!--        and the high pressure from pests and diseases that horticultural smallholders are facing by-->
+    <!--        establishing Farmer Field Schools (FFS) to capacitate smallholders to adapt Good Agricultural-->
+    <!--        Practices (GAP) and Integrated Pest Management (IPM) practices in their horticultural production.-->
+    <!--        \n\nThe reader of the provided INFORMATION in this current mobile application agrees that any-->
+    <!--        risk of any kind from any use of the provided INFORMATION rests entirely and completely with-->
+    <!--        the reader. \n\nIn no event will SNV Horti LIFE or its employees be liable for any damage or-->
+    <!--        punitive damages arising out of the use of or inability to use the INFORMATION included in-->
+    <!--        THE PRESENT mobile application. Prior to any use of data FROM THE PRESENT mobile application,-->
+    <!--        you are advised to consult with your local experts, to verify and validate the applicability of-->
+    <!--        the retrieved INFORMATION. There are no warranties as to the results obtained from the use of the-->
+    <!--        information included in the PRESENT mobile application.-->
+    <!--</string>-->
+    <!--    <string name="about_Title">Ethiopian Vegetable Insect Pests and Disease Guide</string>-->
+    <!--    <string name="about_Detail_Information"><b>VegDr provides you information for vegetable pest, diseases-->
+    <!--        and disorders.</b> The app includes 4 vegetable crops which Horti-LIFE project is-->
+    <!--        working on (Onion, Pepper, Tomato and Cabbage). The app contains information on 20 pests\',-->
+    <!--        35 diseases\', and 13 disorders\' images of the symptoms, IPM recommendations and lists-->
+    <!--        products that are considered effective for control. \n\nRecommendations are based on information-->
+    <!--        on the manufacturer\'s label and performance data from research and Extension trials from the-->
+    <!--        Farmers Field School. \n\nVegDr is developed by AgTraIn PLC and funding provided by the Horti-LIFE-->
+    <!--        project of SNV Netherlands Development Organization.-->
+    <!--    </string>-->
     <string name="contact_info"><b>AgTraIn plc</b>,\t agtraintrading@gmail.com, info@agtraintrading.com.et, andnetbay@gmail.com</string>
     <string name="action_settings">Change Language</string>
     <string name="choose_Language">Choose Language....</string>
@@ -83,7 +84,6 @@
     For better result, please consult your local specialist.
 </string>
     <string name="popup_btn_Okay">Okay!</string>
-
 
 
     <string name="references_Title">References</string>
@@ -128,6 +128,8 @@ smallholder farmers. The present app is focusing on the Integrated Pest Manageme
     <string name="msg_no_product_found">
         There are no specific methods of control, so contact your local agronomist and try to control it by implementing better prevention and control methods.
     </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
 

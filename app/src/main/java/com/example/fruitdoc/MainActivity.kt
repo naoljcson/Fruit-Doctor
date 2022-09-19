@@ -3,6 +3,7 @@ package com.example.fruitdoc
 import android.app.AlertDialog
 import android.content.res.Configuration
 import android.os.Bundle
+import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
@@ -16,7 +17,9 @@ import androidx.navigation.ui.setupWithNavController
 import com.example.fruitdoc.util.PreferenceHelper
 import com.example.fruitdoc.viewModel.FruitViewModel
 import com.example.fruitdoc.databinding.ActivityMainBinding
+import com.google.android.gms.tasks.OnCompleteListener
 import com.google.android.material.navigation.NavigationView
+import com.google.firebase.messaging.FirebaseMessaging
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
@@ -51,12 +54,23 @@ class MainActivity : AppCompatActivity() {
                 R.id.nav_about_agtrain,
                 R.id.nav_about_hort_life_project,
                 R.id.nav_references,
-                R.id.nav_about
+                R.id.nav_about,
+                R.id.nav_notification
             ), drawerLayout
         )
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
 
+
+        FirebaseMessaging.getInstance().token.addOnCompleteListener(OnCompleteListener { task ->
+            if (!task.isSuccessful) {
+                return@OnCompleteListener
+            }
+
+            // Get new FCM registration token
+            val token = task.result
+            Log.i("MessagingService", "onCreate: $token")
+        })
 
         viewModel = ViewModelProvider(
             this,
